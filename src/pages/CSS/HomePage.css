@@ -1,0 +1,112 @@
+.home-wrapper{
+    position: relative;
+    top: 10%;
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.home-content-wrapper{
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 70%;
+    z-index: 1;
+    left: 3%;
+}
+.home-header{
+    position: relative;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 95%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.home-content{
+    position: relative;
+    left: 50%;
+    margin-top: 8%;
+    height: fit-content;
+    transform: translateX(-50%);
+    width: 70%;
+}
+.home-actions{
+    margin-top: 13%;
+    position: relative;
+    width: 100%;
+    left: 5%;
+    height: 13%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.home-actions .start-button{
+    position: relative;
+    height: fit-content;
+    width: 30%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.search-section-home{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 100%;
+}
+/**************************Right Side************************/
+.home-page-decor-section{
+    position: absolute;
+    width: 90%;
+    height: 180%;
+    left: 55%;
+    transform: rotate(25deg);
+    background-color: rgba(0,0,0,0.03);
+}
+.home-page-decor-section .decor-img1{
+    transform: rotate(-25deg);
+    position: absolute;
+    width: 10%;
+    top: 20%;
+    /* right: 10%; */
+    /* z-index: 100; */
+    left: 13%;
+
+}
+.decor-img1 img{
+    width: 100%;
+    
+}
+.home-page-decor-section .decor-img2{
+    transform: rotate(-25deg);
+    position: absolute;
+    width: 15%;
+    top: 13%;
+    left: 23%;
+
+}
+.decor-img2 img{
+    width: 100%;
+    
+}
+.decor-assets{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    height: 10%;
+    width: 40%;
+    transform: rotate(-25deg);
+    top: 40%;
+    left: 5%;
+    justify-content: space-evenly;
+}
+.decor-assets img{
+    position: relative;
+    width: 12%;
+    height: 60%;
+}

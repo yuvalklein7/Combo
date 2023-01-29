@@ -1,0 +1,28 @@
+/*********************TOP NAV*********************/
+.nav-bar-wrapper{
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.nav-bar-content{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-icon{
+    font-size: 7vh !important;
+
+}
+/* .nav-icon-right{
+    position: absolute;
+} */
+.wifi-icon{
+    font-size: 6vh !important;
+    right: 5%;
+}
+/*********************LEFT NAV (DRAWER)*********************/
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper{
+    background-color:  rgb(235,239,245) !important;
+}

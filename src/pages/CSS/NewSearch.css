@@ -1,0 +1,87 @@
+.new-search-wrapper {
+    position: relative;
+    /* top: 10%; */
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.new-search-section {
+    position: relative;
+    top: 30%;
+    display: flex;
+    flex-direction: column;
+    height: 35%;
+    justify-content: space-between;
+}
+
+.new-search-header {
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+}
+
+.search-section {
+
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 50%;
+    left: 52.5%;
+    transform: translatex(-50%);
+    margin-bottom: 10px;
+}
+
+.new-search-wrapper .history-searches {
+    position: relative;
+    max-height: 50%;
+    max-width: 50%;
+    height: 30%;
+    left: 50%;
+    margin-bottom: 10px;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* overflow: auto; */
+}
+.new-search-header{
+    color: rgba(0,0,0,0.65);
+}
+.history-card {
+    padding:0 5px 15px 0;
+    position: relative;
+    /* max-width: 25%; */
+    width: 23%;
+    max-height: 20%;
+
+}
+.delete-card{
+    position: absolute !important;
+    right: 3%;
+    top: 0%;
+    padding: 0 !important;
+
+}
+.card-date{
+    font-size: 2vmin !important;
+}
+.card-value {
+    font-size: 2.7vmin !important;
+}
+.history-card .css-1t6e9jv-MuiCardActions-root{
+    padding: 0 !important;
+    position: relative;
+    width: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.history-card .css-46bh2p-MuiCardContent-root{
+    padding: 16px 16px 0 16px !important;
+}

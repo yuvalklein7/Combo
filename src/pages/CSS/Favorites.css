@@ -1,0 +1,16 @@
+.favorite-searches-content{
+    position: relative;
+    width: 100%;
+    height: 90%;
+    top:15%;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+}
+.favorite-card-wrapper{
+    position: relative;
+    width: 60% ; 
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 20px;
+}

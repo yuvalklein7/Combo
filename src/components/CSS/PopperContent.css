@@ -1,0 +1,15 @@
+.slider-content{
+    z-index: 5;
+    display: flex;
+    flex-direction: column;
+    width: 15vw;
+}
+.slider-title{
+    position: relative;
+    width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.css-53tbrc-MuiSlider-root{
+    z-index: 5 !important;
+}

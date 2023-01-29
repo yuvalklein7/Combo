@@ -1,0 +1,98 @@
+.search-page-content {
+    position: relative;
+    top: 10%;
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header-section {
+    position: relative;
+    /* border: 3px solid black; */
+    height: 10%;
+    margin-top: 5px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.search-header {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.search-header button{
+   left:1%;
+}
+.search-header h4 {
+    position: relative;
+    top: 10%;
+}
+
+.actions-chart {
+    position: relative;
+    width: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.chart-img {
+    position: relative;
+    width: 40%;
+    cursor: pointer;
+}
+.chart-img img {
+    width: 100%;
+}
+
+
+/******************************** Table Section **********************************/
+.table-section {
+    position: relative;
+    height: 87%;
+    margin-top: 2%;
+}
+
+.search-loader {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: fit-content;
+    transform: translate(-50%, -50%);
+}
+
+.table-section-content {
+    position: relative;
+    height: 94.5%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+.result-sum {
+    /* border: 5px solid saddlebrown; */
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 3px 7px 5px #888888;
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+    height: 50%;
+    /* left: 3%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.even {
+    background-color: rgba(204, 147, 86, 0.4);
+}

@@ -1,0 +1,21 @@
+.css-10hburv-MuiTypography-root {
+    font-size: 3.5vh !important;
+}
+.left-nav div{
+    overflow: hidden !important;
+}
+.nav-icon {
+    font-size: 5vh !important;
+}
+.technion-logo{
+    position: relative;
+    margin-top: 35%;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    width: 17vw;
+    object-fit: fill;
+}
+a{
+    color: inherit !important;
+    text-decoration: none !important;
+}

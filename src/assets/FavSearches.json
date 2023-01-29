@@ -1,0 +1,4340 @@
+{
+    "searches": [
+        {
+            "seTime": "Fri Dec 02 2022 02:39:43 GMT+0200",
+            "subject": "Lung Cancer",
+            "years":[2000,2030],
+            "keyMes": {
+                "studiesNum":"434833",
+                "studiesRet":"11060",
+                "retTime":"2.045",
+                "mostOcc":{
+                    "drugs":"Docetaxel",
+                    "occurance":"162"
+                }
+            },
+            "val": [
+                {
+                    "id": 1,
+                    "drugs": "Docetaxel",
+                    "drugsCount": 1,
+                    "occurance": 162
+                },
+                {
+                    "id": 2,
+                    "drugs": "Gefitinib",
+                    "drugsCount": 1,
+                    "occurance": 77
+                },
+                {
+                    "id": 3,
+                    "drugs": "Carboplatin,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 22
+                },
+                {
+                    "id": 4,
+                    "drugs": "Durvalumab",
+                    "drugsCount": 1,
+                    "occurance": 75
+                },
+                {
+                    "id": 5,
+                    "drugs": "Cyclophosphamide",
+                    "drugsCount": 1,
+                    "occurance": 20
+                },
+                {
+                    "id": 6,
+                    "drugs": "Carboplatin",
+                    "drugsCount": 1,
+                    "occurance": 232
+                },
+                {
+                    "id": 7,
+                    "drugs": "Atezolizumab",
+                    "drugsCount": 1,
+                    "occurance": 84
+                },
+                {
+                    "id": 8,
+                    "drugs": "Pembrolizumab",
+                    "drugsCount": 1,
+                    "occurance": 161
+                },
+                {
+                    "id": 9,
+                    "drugs": "Dexamethasone",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 10,
+                    "drugs": "Ipilimumab",
+                    "drugsCount": 1,
+                    "occurance": 36
+                },
+                {
+                    "id": 11,
+                    "drugs": "Nivolumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 12,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 13,
+                    "drugs": "Nivolumab",
+                    "drugsCount": 1,
+                    "occurance": 96
+                },
+                {
+                    "id": 14,
+                    "drugs": "Bevacizumab,Cisplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 15,
+                    "drugs": "Bevacizumab",
+                    "drugsCount": 1,
+                    "occurance": 91
+                },
+                {
+                    "id": 16,
+                    "drugs": "Atezolizumab,Bevacizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 17,
+                    "drugs": "Carboplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 15
+                },
+                {
+                    "id": 18,
+                    "drugs": "Cisplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 11
+                },
+                {
+                    "id": 19,
+                    "drugs": "Paclitaxel",
+                    "drugsCount": 1,
+                    "occurance": 136
+                },
+                {
+                    "id": 20,
+                    "drugs": "Oxaliplatin",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 21,
+                    "drugs": "Cisplatin",
+                    "drugsCount": 1,
+                    "occurance": 210
+                },
+                {
+                    "id": 22,
+                    "drugs": "Avelumab",
+                    "drugsCount": 1,
+                    "occurance": 13
+                },
+                {
+                    "id": 23,
+                    "drugs": "Carboplatin,Cetuximab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 24,
+                    "drugs": "Carboplatin,Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 25,
+                    "drugs": "Regorafenib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 26,
+                    "drugs": "Durvalumab,Lurbinectedin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 27,
+                    "drugs": "Abemaciclib",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 28,
+                    "drugs": "Vandetanib",
+                    "drugsCount": 1,
+                    "occurance": 9
+                },
+                {
+                    "id": 29,
+                    "drugs": "Carboplatin,Cisplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 30,
+                    "drugs": "XELOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 31,
+                    "drugs": "Prednisone",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 32,
+                    "drugs": "Cetuximab",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 33,
+                    "drugs": "Busulfan,Melphalan",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 34,
+                    "drugs": "Aldesleukin",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 35,
+                    "drugs": "Alectinib",
+                    "drugsCount": 1,
+                    "occurance": 11
+                },
+                {
+                    "id": 36,
+                    "drugs": "Cisplatin,Dexamethasone",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 37,
+                    "drugs": "Ceritinib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 38,
+                    "drugs": "Temozolomide",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 39,
+                    "drugs": "Dacomitinib",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 40,
+                    "drugs": "Sotorasib",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 41,
+                    "drugs": "Amifostine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 42,
+                    "drugs": "Crizotinib",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 43,
+                    "drugs": "Anastrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 44,
+                    "drugs": "AC",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 45,
+                    "drugs": "Cisplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 9
+                },
+                {
+                    "id": 46,
+                    "drugs": "Carboplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 40
+                },
+                {
+                    "id": 47,
+                    "drugs": "Etoposide",
+                    "drugsCount": 1,
+                    "occurance": 51
+                },
+                {
+                    "id": 48,
+                    "drugs": "Aprepitant",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 49,
+                    "drugs": "Dasatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 50,
+                    "drugs": "Ipilimumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 6
+                },
+                {
+                    "id": 51,
+                    "drugs": "Atezolizumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 52,
+                    "drugs": "Atezolizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 53,
+                    "drugs": "Avelumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 54,
+                    "drugs": "Avelumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 55,
+                    "drugs": "Axitinib",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 56,
+                    "drugs": "Azacitidine",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 57,
+                    "drugs": "Olaparib",
+                    "drugsCount": 1,
+                    "occurance": 16
+                },
+                {
+                    "id": 58,
+                    "drugs": "Bevacizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 7
+                },
+                {
+                    "id": 59,
+                    "drugs": "Bevacizumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 60,
+                    "drugs": "Bexarotene",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 61,
+                    "drugs": "Binimetinib",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 62,
+                    "drugs": "Ramucirumab",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 63,
+                    "drugs": "Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 64,
+                    "drugs": "Bortezomib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 65,
+                    "drugs": "Brigatinib",
+                    "drugsCount": 1,
+                    "occurance": 10
+                },
+                {
+                    "id": 66,
+                    "drugs": "Cabazitaxel",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 67,
+                    "drugs": "Capecitabine",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 68,
+                    "drugs": "Atezolizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 69,
+                    "drugs": "Atezolizumab,Bevacizumab,Carboplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 70,
+                    "drugs": "Carboplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 10
+                },
+                {
+                    "id": 71,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 72,
+                    "drugs": "Cisplatin,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 73,
+                    "drugs": "Cisplatin,Docetaxel,Etoposide,Filgrastim,Pegfilgrastim",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 74,
+                    "drugs": "Cisplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 8
+                },
+                {
+                    "id": 75,
+                    "drugs": "Crizotinib,Ipilimumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 76,
+                    "drugs": "Cyclophosphamide,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 77,
+                    "drugs": "Cyclophosphamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 78,
+                    "drugs": "Decitabine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 79,
+                    "drugs": "Degarelix",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 80,
+                    "drugs": "Denosumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 81,
+                    "drugs": "Denosumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 82,
+                    "drugs": "Dinutuximab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 83,
+                    "drugs": "Dexamethasone,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 84,
+                    "drugs": "Bevacizumab,Carboplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 85,
+                    "drugs": "Lorlatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 86,
+                    "drugs": "Pertuzumab",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 87,
+                    "drugs": "Everolimus,Panitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 88,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 89,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 3
+                },
+                {
+                    "id": 90,
+                    "drugs": "Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 91,
+                    "drugs": "Durvalumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 92,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 93,
+                    "drugs": "Durvalumab,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 94,
+                    "drugs": "Alectinib,Ceritinib,Crizotinib,Vemurafenib",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 95,
+                    "drugs": "Entrectinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 96,
+                    "drugs": "Enzalutamide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 97,
+                    "drugs": "Etoposide,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 98,
+                    "drugs": "Everolimus",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 99,
+                    "drugs": "Exemestane",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 100,
+                    "drugs": "FOLFIRI",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 101,
+                    "drugs": "FOLFOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 102,
+                    "drugs": "Fulvestrant",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 103,
+                    "drugs": "Gefitinib,Thalidomide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 104,
+                    "drugs": "Bevacizumab,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 105,
+                    "drugs": "Cisplatin,Necitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 106,
+                    "drugs": "Alemtuzumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 107,
+                    "drugs": "Carboplatin,Dasatinib,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 108,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 109,
+                    "drugs": "Cisplatin,FOLFIRINOX,Oxaliplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 110,
+                    "drugs": "Ifosfamide",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 111,
+                    "drugs": "Imiquimod",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 112,
+                    "drugs": "Tocilizumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 113,
+                    "drugs": "Belinostat,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 114,
+                    "drugs": "Cisplatin,Durvalumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 115,
+                    "drugs": "Cisplatin,Gefitinib",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 116,
+                    "drugs": "Atezolizumab,CHOP,Cyclophosphamide,Prednisone,Rituximab",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 117,
+                    "drugs": "Ixabepilone",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 118,
+                    "drugs": "Lenalidomide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 119,
+                    "drugs": "Letrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 120,
+                    "drugs": "Bortezomib,Dacarbazine",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 121,
+                    "drugs": "Lomustine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 122,
+                    "drugs": "Crizotinib,Lorlatinib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 123,
+                    "drugs": "Lurbinectedin",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 124,
+                    "drugs": "Necitumumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 125,
+                    "drugs": "Cisplatin,Ipilimumab,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 126,
+                    "drugs": "Carboplatin,Cisplatin,Nivolumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 127,
+                    "drugs": "Obinutuzumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 128,
+                    "drugs": "Bevacizumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 129,
+                    "drugs": "Cisplatin,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 130,
+                    "drugs": "Bortezomib,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 131,
+                    "drugs": "Capecitabine,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 132,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX,Oxaliplatin",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 133,
+                    "drugs": "Docetaxel,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 134,
+                    "drugs": "Bevacizumab,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 135,
+                    "drugs": "Paclitaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 136,
+                    "drugs": "Carboplatin,Paclitaxel,Temozolomide",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 137,
+                    "drugs": "Dexamethasone,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 138,
+                    "drugs": "Palbociclib",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 139,
+                    "drugs": "Panitumumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 140,
+                    "drugs": "Ibrutinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 141,
+                    "drugs": "Busulfan",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 142,
+                    "drugs": "Trabectedin",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 143,
+                    "drugs": "Vorinostat",
+                    "drugsCount": 1,
+                    "occurance": 12
+                },
+                {
+                    "id": 144,
+                    "drugs": "Cyclophosphamide,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 145,
+                    "drugs": "Bevacizumab,Cyclophosphamide,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 146,
+                    "drugs": "Pegfilgrastim",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 147,
+                    "drugs": "Bevacizumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 148,
+                    "drugs": "Docetaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 149,
+                    "drugs": "Pembrolizumab,Vorinostat",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 150,
+                    "drugs": "Carboplatin,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 151,
+                    "drugs": "Pemigatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 152,
+                    "drugs": "Docetaxel,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 153,
+                    "drugs": "Pralsetinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 154,
+                    "drugs": "Trastuzumab",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 155,
+                    "drugs": "Ribociclib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 156,
+                    "drugs": "Romiplostim",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 157,
+                    "drugs": "Selinexor",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 158,
+                    "drugs": "Selpercatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 159,
+                    "drugs": "Siltuximab",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 160,
+                    "drugs": "Carboplatin,Cetuximab,Cisplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 161,
+                    "drugs": "Carboplatin,Etoposide,Vorinostat",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 162,
+                    "drugs": "Talc",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 163,
+                    "drugs": "FEC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 164,
+                    "drugs": "Atezolizumab,Ipilimumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 165,
+                    "drugs": "Belinostat",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 166,
+                    "drugs": "VAC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 167,
+                    "drugs": "Carboplatin,Paclitaxel,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 168,
+                    "drugs": "Carboplatin,Cisplatin,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 169,
+                    "drugs": "Nivolumab,Ramucirumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 170,
+                    "drugs": "Durvalumab,Trabectedin",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 171,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel,Vorinostat",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 172,
+                    "drugs": "Durvalumab,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 173,
+                    "drugs": "Paclitaxel,Trastuzumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 174,
+                    "drugs": "Ipilimumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 175,
+                    "drugs": "Venetoclax",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 176,
+                    "drugs": "Ifosfamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 177,
+                    "drugs": "Mesna",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 178,
+                    "drugs": "Cyclophosphamide,Etoposide,Ifosfamide",
+                    "drugsCount": 3,
+                    "occurance": 2
+                }
+            ]
+        },
+        {
+            "seTime": "Fri Dec 02 2022 02:39:43 GMT+0200",
+            "subject": "Lung Cancer",
+            "years":[2000,2030],
+            "keyMes": {
+                "studiesNum":"434833",
+                "studiesRet":"11060",
+                "retTime":"2.045",
+                "mostOcc":{
+                    "drugs":"Docetaxel",
+                    "occurance":"162"
+                }
+            },
+            "val": [
+                {
+                    "id": 1,
+                    "drugs": "Docetaxel",
+                    "drugsCount": 1,
+                    "occurance": 162
+                },
+                {
+                    "id": 2,
+                    "drugs": "Gefitinib",
+                    "drugsCount": 1,
+                    "occurance": 77
+                },
+                {
+                    "id": 3,
+                    "drugs": "Carboplatin,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 22
+                },
+                {
+                    "id": 4,
+                    "drugs": "Durvalumab",
+                    "drugsCount": 1,
+                    "occurance": 75
+                },
+                {
+                    "id": 5,
+                    "drugs": "Cyclophosphamide",
+                    "drugsCount": 1,
+                    "occurance": 20
+                },
+                {
+                    "id": 6,
+                    "drugs": "Carboplatin",
+                    "drugsCount": 1,
+                    "occurance": 232
+                },
+                {
+                    "id": 7,
+                    "drugs": "Atezolizumab",
+                    "drugsCount": 1,
+                    "occurance": 84
+                },
+                {
+                    "id": 8,
+                    "drugs": "Pembrolizumab",
+                    "drugsCount": 1,
+                    "occurance": 161
+                },
+                {
+                    "id": 9,
+                    "drugs": "Dexamethasone",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 10,
+                    "drugs": "Ipilimumab",
+                    "drugsCount": 1,
+                    "occurance": 36
+                },
+                {
+                    "id": 11,
+                    "drugs": "Nivolumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 12,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 13,
+                    "drugs": "Nivolumab",
+                    "drugsCount": 1,
+                    "occurance": 96
+                },
+                {
+                    "id": 14,
+                    "drugs": "Bevacizumab,Cisplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 15,
+                    "drugs": "Bevacizumab",
+                    "drugsCount": 1,
+                    "occurance": 91
+                },
+                {
+                    "id": 16,
+                    "drugs": "Atezolizumab,Bevacizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 17,
+                    "drugs": "Carboplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 15
+                },
+                {
+                    "id": 18,
+                    "drugs": "Cisplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 11
+                },
+                {
+                    "id": 19,
+                    "drugs": "Paclitaxel",
+                    "drugsCount": 1,
+                    "occurance": 136
+                },
+                {
+                    "id": 20,
+                    "drugs": "Oxaliplatin",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 21,
+                    "drugs": "Cisplatin",
+                    "drugsCount": 1,
+                    "occurance": 210
+                },
+                {
+                    "id": 22,
+                    "drugs": "Avelumab",
+                    "drugsCount": 1,
+                    "occurance": 13
+                },
+                {
+                    "id": 23,
+                    "drugs": "Carboplatin,Cetuximab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 24,
+                    "drugs": "Carboplatin,Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 25,
+                    "drugs": "Regorafenib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 26,
+                    "drugs": "Durvalumab,Lurbinectedin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 27,
+                    "drugs": "Abemaciclib",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 28,
+                    "drugs": "Vandetanib",
+                    "drugsCount": 1,
+                    "occurance": 9
+                },
+                {
+                    "id": 29,
+                    "drugs": "Carboplatin,Cisplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 30,
+                    "drugs": "XELOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 31,
+                    "drugs": "Prednisone",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 32,
+                    "drugs": "Cetuximab",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 33,
+                    "drugs": "Busulfan,Melphalan",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 34,
+                    "drugs": "Aldesleukin",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 35,
+                    "drugs": "Alectinib",
+                    "drugsCount": 1,
+                    "occurance": 11
+                },
+                {
+                    "id": 36,
+                    "drugs": "Cisplatin,Dexamethasone",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 37,
+                    "drugs": "Ceritinib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 38,
+                    "drugs": "Temozolomide",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 39,
+                    "drugs": "Dacomitinib",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 40,
+                    "drugs": "Sotorasib",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 41,
+                    "drugs": "Amifostine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 42,
+                    "drugs": "Crizotinib",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 43,
+                    "drugs": "Anastrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 44,
+                    "drugs": "AC",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 45,
+                    "drugs": "Cisplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 9
+                },
+                {
+                    "id": 46,
+                    "drugs": "Carboplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 40
+                },
+                {
+                    "id": 47,
+                    "drugs": "Etoposide",
+                    "drugsCount": 1,
+                    "occurance": 51
+                },
+                {
+                    "id": 48,
+                    "drugs": "Aprepitant",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 49,
+                    "drugs": "Dasatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 50,
+                    "drugs": "Ipilimumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 6
+                },
+                {
+                    "id": 51,
+                    "drugs": "Atezolizumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 52,
+                    "drugs": "Atezolizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 53,
+                    "drugs": "Avelumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 54,
+                    "drugs": "Avelumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 55,
+                    "drugs": "Axitinib",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 56,
+                    "drugs": "Azacitidine",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 57,
+                    "drugs": "Olaparib",
+                    "drugsCount": 1,
+                    "occurance": 16
+                },
+                {
+                    "id": 58,
+                    "drugs": "Bevacizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 7
+                },
+                {
+                    "id": 59,
+                    "drugs": "Bevacizumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 60,
+                    "drugs": "Bexarotene",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 61,
+                    "drugs": "Binimetinib",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 62,
+                    "drugs": "Ramucirumab",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 63,
+                    "drugs": "Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 64,
+                    "drugs": "Bortezomib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 65,
+                    "drugs": "Brigatinib",
+                    "drugsCount": 1,
+                    "occurance": 10
+                },
+                {
+                    "id": 66,
+                    "drugs": "Cabazitaxel",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 67,
+                    "drugs": "Capecitabine",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 68,
+                    "drugs": "Atezolizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 69,
+                    "drugs": "Atezolizumab,Bevacizumab,Carboplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 70,
+                    "drugs": "Carboplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 10
+                },
+                {
+                    "id": 71,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 72,
+                    "drugs": "Cisplatin,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 73,
+                    "drugs": "Cisplatin,Docetaxel,Etoposide,Filgrastim,Pegfilgrastim",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 74,
+                    "drugs": "Cisplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 8
+                },
+                {
+                    "id": 75,
+                    "drugs": "Crizotinib,Ipilimumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 76,
+                    "drugs": "Cyclophosphamide,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 77,
+                    "drugs": "Cyclophosphamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 78,
+                    "drugs": "Decitabine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 79,
+                    "drugs": "Degarelix",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 80,
+                    "drugs": "Denosumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 81,
+                    "drugs": "Denosumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 82,
+                    "drugs": "Dinutuximab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 83,
+                    "drugs": "Dexamethasone,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 84,
+                    "drugs": "Bevacizumab,Carboplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 85,
+                    "drugs": "Lorlatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 86,
+                    "drugs": "Pertuzumab",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 87,
+                    "drugs": "Everolimus,Panitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 88,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 89,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 3
+                },
+                {
+                    "id": 90,
+                    "drugs": "Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 91,
+                    "drugs": "Durvalumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 92,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 93,
+                    "drugs": "Durvalumab,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 94,
+                    "drugs": "Alectinib,Ceritinib,Crizotinib,Vemurafenib",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 95,
+                    "drugs": "Entrectinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 96,
+                    "drugs": "Enzalutamide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 97,
+                    "drugs": "Etoposide,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 98,
+                    "drugs": "Everolimus",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 99,
+                    "drugs": "Exemestane",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 100,
+                    "drugs": "FOLFIRI",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 101,
+                    "drugs": "FOLFOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 102,
+                    "drugs": "Fulvestrant",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 103,
+                    "drugs": "Gefitinib,Thalidomide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 104,
+                    "drugs": "Bevacizumab,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 105,
+                    "drugs": "Cisplatin,Necitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 106,
+                    "drugs": "Alemtuzumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 107,
+                    "drugs": "Carboplatin,Dasatinib,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 108,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 109,
+                    "drugs": "Cisplatin,FOLFIRINOX,Oxaliplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 110,
+                    "drugs": "Ifosfamide",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 111,
+                    "drugs": "Imiquimod",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 112,
+                    "drugs": "Tocilizumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 113,
+                    "drugs": "Belinostat,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 114,
+                    "drugs": "Cisplatin,Durvalumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 115,
+                    "drugs": "Cisplatin,Gefitinib",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 116,
+                    "drugs": "Atezolizumab,CHOP,Cyclophosphamide,Prednisone,Rituximab",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 117,
+                    "drugs": "Ixabepilone",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 118,
+                    "drugs": "Lenalidomide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 119,
+                    "drugs": "Letrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 120,
+                    "drugs": "Bortezomib,Dacarbazine",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 121,
+                    "drugs": "Lomustine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 122,
+                    "drugs": "Crizotinib,Lorlatinib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 123,
+                    "drugs": "Lurbinectedin",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 124,
+                    "drugs": "Necitumumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 125,
+                    "drugs": "Cisplatin,Ipilimumab,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 126,
+                    "drugs": "Carboplatin,Cisplatin,Nivolumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 127,
+                    "drugs": "Obinutuzumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 128,
+                    "drugs": "Bevacizumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 129,
+                    "drugs": "Cisplatin,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 130,
+                    "drugs": "Bortezomib,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 131,
+                    "drugs": "Capecitabine,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 132,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX,Oxaliplatin",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 133,
+                    "drugs": "Docetaxel,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 134,
+                    "drugs": "Bevacizumab,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 135,
+                    "drugs": "Paclitaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 136,
+                    "drugs": "Carboplatin,Paclitaxel,Temozolomide",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 137,
+                    "drugs": "Dexamethasone,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 138,
+                    "drugs": "Palbociclib",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 139,
+                    "drugs": "Panitumumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 140,
+                    "drugs": "Ibrutinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 141,
+                    "drugs": "Busulfan",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 142,
+                    "drugs": "Trabectedin",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 143,
+                    "drugs": "Vorinostat",
+                    "drugsCount": 1,
+                    "occurance": 12
+                },
+                {
+                    "id": 144,
+                    "drugs": "Cyclophosphamide,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 145,
+                    "drugs": "Bevacizumab,Cyclophosphamide,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 146,
+                    "drugs": "Pegfilgrastim",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 147,
+                    "drugs": "Bevacizumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 148,
+                    "drugs": "Docetaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 149,
+                    "drugs": "Pembrolizumab,Vorinostat",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 150,
+                    "drugs": "Carboplatin,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 151,
+                    "drugs": "Pemigatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 152,
+                    "drugs": "Docetaxel,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 153,
+                    "drugs": "Pralsetinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 154,
+                    "drugs": "Trastuzumab",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 155,
+                    "drugs": "Ribociclib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 156,
+                    "drugs": "Romiplostim",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 157,
+                    "drugs": "Selinexor",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 158,
+                    "drugs": "Selpercatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 159,
+                    "drugs": "Siltuximab",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 160,
+                    "drugs": "Carboplatin,Cetuximab,Cisplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 161,
+                    "drugs": "Carboplatin,Etoposide,Vorinostat",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 162,
+                    "drugs": "Talc",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 163,
+                    "drugs": "FEC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 164,
+                    "drugs": "Atezolizumab,Ipilimumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 165,
+                    "drugs": "Belinostat",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 166,
+                    "drugs": "VAC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 167,
+                    "drugs": "Carboplatin,Paclitaxel,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 168,
+                    "drugs": "Carboplatin,Cisplatin,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 169,
+                    "drugs": "Nivolumab,Ramucirumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 170,
+                    "drugs": "Durvalumab,Trabectedin",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 171,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel,Vorinostat",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 172,
+                    "drugs": "Durvalumab,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 173,
+                    "drugs": "Paclitaxel,Trastuzumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 174,
+                    "drugs": "Ipilimumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 175,
+                    "drugs": "Venetoclax",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 176,
+                    "drugs": "Ifosfamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 177,
+                    "drugs": "Mesna",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 178,
+                    "drugs": "Cyclophosphamide,Etoposide,Ifosfamide",
+                    "drugsCount": 3,
+                    "occurance": 2
+                }
+            ]
+        },
+        {
+            "seTime": "Fri Dec 02 2022 02:39:43 GMT+0200",
+            "subject": "Lung Cancer",
+            "years":[2000,2030],
+            "keyMes": {
+                "studiesNum":"434833",
+                "studiesRet":"11060",
+                "retTime":"2.045",
+                "mostOcc":{
+                    "drugs":"Docetaxel",
+                    "occurance":"162"
+                }
+            },
+            "val": [
+                {
+                    "id": 1,
+                    "drugs": "Docetaxel",
+                    "drugsCount": 1,
+                    "occurance": 162
+                },
+                {
+                    "id": 2,
+                    "drugs": "Gefitinib",
+                    "drugsCount": 1,
+                    "occurance": 77
+                },
+                {
+                    "id": 3,
+                    "drugs": "Carboplatin,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 22
+                },
+                {
+                    "id": 4,
+                    "drugs": "Durvalumab",
+                    "drugsCount": 1,
+                    "occurance": 75
+                },
+                {
+                    "id": 5,
+                    "drugs": "Cyclophosphamide",
+                    "drugsCount": 1,
+                    "occurance": 20
+                },
+                {
+                    "id": 6,
+                    "drugs": "Carboplatin",
+                    "drugsCount": 1,
+                    "occurance": 232
+                },
+                {
+                    "id": 7,
+                    "drugs": "Atezolizumab",
+                    "drugsCount": 1,
+                    "occurance": 84
+                },
+                {
+                    "id": 8,
+                    "drugs": "Pembrolizumab",
+                    "drugsCount": 1,
+                    "occurance": 161
+                },
+                {
+                    "id": 9,
+                    "drugs": "Dexamethasone",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 10,
+                    "drugs": "Ipilimumab",
+                    "drugsCount": 1,
+                    "occurance": 36
+                },
+                {
+                    "id": 11,
+                    "drugs": "Nivolumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 12,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 13,
+                    "drugs": "Nivolumab",
+                    "drugsCount": 1,
+                    "occurance": 96
+                },
+                {
+                    "id": 14,
+                    "drugs": "Bevacizumab,Cisplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 15,
+                    "drugs": "Bevacizumab",
+                    "drugsCount": 1,
+                    "occurance": 91
+                },
+                {
+                    "id": 16,
+                    "drugs": "Atezolizumab,Bevacizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 17,
+                    "drugs": "Carboplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 15
+                },
+                {
+                    "id": 18,
+                    "drugs": "Cisplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 11
+                },
+                {
+                    "id": 19,
+                    "drugs": "Paclitaxel",
+                    "drugsCount": 1,
+                    "occurance": 136
+                },
+                {
+                    "id": 20,
+                    "drugs": "Oxaliplatin",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 21,
+                    "drugs": "Cisplatin",
+                    "drugsCount": 1,
+                    "occurance": 210
+                },
+                {
+                    "id": 22,
+                    "drugs": "Avelumab",
+                    "drugsCount": 1,
+                    "occurance": 13
+                },
+                {
+                    "id": 23,
+                    "drugs": "Carboplatin,Cetuximab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 24,
+                    "drugs": "Carboplatin,Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 25,
+                    "drugs": "Regorafenib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 26,
+                    "drugs": "Durvalumab,Lurbinectedin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 27,
+                    "drugs": "Abemaciclib",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 28,
+                    "drugs": "Vandetanib",
+                    "drugsCount": 1,
+                    "occurance": 9
+                },
+                {
+                    "id": 29,
+                    "drugs": "Carboplatin,Cisplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 30,
+                    "drugs": "XELOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 31,
+                    "drugs": "Prednisone",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 32,
+                    "drugs": "Cetuximab",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 33,
+                    "drugs": "Busulfan,Melphalan",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 34,
+                    "drugs": "Aldesleukin",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 35,
+                    "drugs": "Alectinib",
+                    "drugsCount": 1,
+                    "occurance": 11
+                },
+                {
+                    "id": 36,
+                    "drugs": "Cisplatin,Dexamethasone",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 37,
+                    "drugs": "Ceritinib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 38,
+                    "drugs": "Temozolomide",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 39,
+                    "drugs": "Dacomitinib",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 40,
+                    "drugs": "Sotorasib",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 41,
+                    "drugs": "Amifostine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 42,
+                    "drugs": "Crizotinib",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 43,
+                    "drugs": "Anastrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 44,
+                    "drugs": "AC",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 45,
+                    "drugs": "Cisplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 9
+                },
+                {
+                    "id": 46,
+                    "drugs": "Carboplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 40
+                },
+                {
+                    "id": 47,
+                    "drugs": "Etoposide",
+                    "drugsCount": 1,
+                    "occurance": 51
+                },
+                {
+                    "id": 48,
+                    "drugs": "Aprepitant",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 49,
+                    "drugs": "Dasatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 50,
+                    "drugs": "Ipilimumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 6
+                },
+                {
+                    "id": 51,
+                    "drugs": "Atezolizumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 52,
+                    "drugs": "Atezolizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 53,
+                    "drugs": "Avelumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 54,
+                    "drugs": "Avelumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 55,
+                    "drugs": "Axitinib",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 56,
+                    "drugs": "Azacitidine",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 57,
+                    "drugs": "Olaparib",
+                    "drugsCount": 1,
+                    "occurance": 16
+                },
+                {
+                    "id": 58,
+                    "drugs": "Bevacizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 7
+                },
+                {
+                    "id": 59,
+                    "drugs": "Bevacizumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 60,
+                    "drugs": "Bexarotene",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 61,
+                    "drugs": "Binimetinib",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 62,
+                    "drugs": "Ramucirumab",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 63,
+                    "drugs": "Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 64,
+                    "drugs": "Bortezomib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 65,
+                    "drugs": "Brigatinib",
+                    "drugsCount": 1,
+                    "occurance": 10
+                },
+                {
+                    "id": 66,
+                    "drugs": "Cabazitaxel",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 67,
+                    "drugs": "Capecitabine",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 68,
+                    "drugs": "Atezolizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 69,
+                    "drugs": "Atezolizumab,Bevacizumab,Carboplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 70,
+                    "drugs": "Carboplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 10
+                },
+                {
+                    "id": 71,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 72,
+                    "drugs": "Cisplatin,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 73,
+                    "drugs": "Cisplatin,Docetaxel,Etoposide,Filgrastim,Pegfilgrastim",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 74,
+                    "drugs": "Cisplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 8
+                },
+                {
+                    "id": 75,
+                    "drugs": "Crizotinib,Ipilimumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 76,
+                    "drugs": "Cyclophosphamide,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 77,
+                    "drugs": "Cyclophosphamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 78,
+                    "drugs": "Decitabine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 79,
+                    "drugs": "Degarelix",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 80,
+                    "drugs": "Denosumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 81,
+                    "drugs": "Denosumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 82,
+                    "drugs": "Dinutuximab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 83,
+                    "drugs": "Dexamethasone,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 84,
+                    "drugs": "Bevacizumab,Carboplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 85,
+                    "drugs": "Lorlatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 86,
+                    "drugs": "Pertuzumab",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 87,
+                    "drugs": "Everolimus,Panitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 88,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 89,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 3
+                },
+                {
+                    "id": 90,
+                    "drugs": "Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 91,
+                    "drugs": "Durvalumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 92,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 93,
+                    "drugs": "Durvalumab,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 94,
+                    "drugs": "Alectinib,Ceritinib,Crizotinib,Vemurafenib",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 95,
+                    "drugs": "Entrectinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 96,
+                    "drugs": "Enzalutamide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 97,
+                    "drugs": "Etoposide,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 98,
+                    "drugs": "Everolimus",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 99,
+                    "drugs": "Exemestane",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 100,
+                    "drugs": "FOLFIRI",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 101,
+                    "drugs": "FOLFOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 102,
+                    "drugs": "Fulvestrant",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 103,
+                    "drugs": "Gefitinib,Thalidomide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 104,
+                    "drugs": "Bevacizumab,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 105,
+                    "drugs": "Cisplatin,Necitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 106,
+                    "drugs": "Alemtuzumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 107,
+                    "drugs": "Carboplatin,Dasatinib,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 108,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 109,
+                    "drugs": "Cisplatin,FOLFIRINOX,Oxaliplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 110,
+                    "drugs": "Ifosfamide",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 111,
+                    "drugs": "Imiquimod",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 112,
+                    "drugs": "Tocilizumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 113,
+                    "drugs": "Belinostat,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 114,
+                    "drugs": "Cisplatin,Durvalumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 115,
+                    "drugs": "Cisplatin,Gefitinib",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 116,
+                    "drugs": "Atezolizumab,CHOP,Cyclophosphamide,Prednisone,Rituximab",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 117,
+                    "drugs": "Ixabepilone",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 118,
+                    "drugs": "Lenalidomide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 119,
+                    "drugs": "Letrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 120,
+                    "drugs": "Bortezomib,Dacarbazine",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 121,
+                    "drugs": "Lomustine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 122,
+                    "drugs": "Crizotinib,Lorlatinib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 123,
+                    "drugs": "Lurbinectedin",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 124,
+                    "drugs": "Necitumumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 125,
+                    "drugs": "Cisplatin,Ipilimumab,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 126,
+                    "drugs": "Carboplatin,Cisplatin,Nivolumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 127,
+                    "drugs": "Obinutuzumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 128,
+                    "drugs": "Bevacizumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 129,
+                    "drugs": "Cisplatin,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 130,
+                    "drugs": "Bortezomib,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 131,
+                    "drugs": "Capecitabine,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 132,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX,Oxaliplatin",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 133,
+                    "drugs": "Docetaxel,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 134,
+                    "drugs": "Bevacizumab,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 135,
+                    "drugs": "Paclitaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 136,
+                    "drugs": "Carboplatin,Paclitaxel,Temozolomide",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 137,
+                    "drugs": "Dexamethasone,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 138,
+                    "drugs": "Palbociclib",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 139,
+                    "drugs": "Panitumumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 140,
+                    "drugs": "Ibrutinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 141,
+                    "drugs": "Busulfan",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 142,
+                    "drugs": "Trabectedin",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 143,
+                    "drugs": "Vorinostat",
+                    "drugsCount": 1,
+                    "occurance": 12
+                },
+                {
+                    "id": 144,
+                    "drugs": "Cyclophosphamide,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 145,
+                    "drugs": "Bevacizumab,Cyclophosphamide,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 146,
+                    "drugs": "Pegfilgrastim",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 147,
+                    "drugs": "Bevacizumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 148,
+                    "drugs": "Docetaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 149,
+                    "drugs": "Pembrolizumab,Vorinostat",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 150,
+                    "drugs": "Carboplatin,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 151,
+                    "drugs": "Pemigatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 152,
+                    "drugs": "Docetaxel,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 153,
+                    "drugs": "Pralsetinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 154,
+                    "drugs": "Trastuzumab",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 155,
+                    "drugs": "Ribociclib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 156,
+                    "drugs": "Romiplostim",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 157,
+                    "drugs": "Selinexor",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 158,
+                    "drugs": "Selpercatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 159,
+                    "drugs": "Siltuximab",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 160,
+                    "drugs": "Carboplatin,Cetuximab,Cisplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 161,
+                    "drugs": "Carboplatin,Etoposide,Vorinostat",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 162,
+                    "drugs": "Talc",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 163,
+                    "drugs": "FEC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 164,
+                    "drugs": "Atezolizumab,Ipilimumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 165,
+                    "drugs": "Belinostat",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 166,
+                    "drugs": "VAC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 167,
+                    "drugs": "Carboplatin,Paclitaxel,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 168,
+                    "drugs": "Carboplatin,Cisplatin,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 169,
+                    "drugs": "Nivolumab,Ramucirumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 170,
+                    "drugs": "Durvalumab,Trabectedin",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 171,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel,Vorinostat",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 172,
+                    "drugs": "Durvalumab,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 173,
+                    "drugs": "Paclitaxel,Trastuzumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 174,
+                    "drugs": "Ipilimumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 175,
+                    "drugs": "Venetoclax",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 176,
+                    "drugs": "Ifosfamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 177,
+                    "drugs": "Mesna",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 178,
+                    "drugs": "Cyclophosphamide,Etoposide,Ifosfamide",
+                    "drugsCount": 3,
+                    "occurance": 2
+                }
+            ]
+        },
+        {
+            "seTime": "Fri Dec 02 2022 02:39:43 GMT+0200",
+            "subject": "Lung Cancer",
+            "years":[2000,2030],
+            "keyMes": {
+                "studiesNum":"434833",
+                "studiesRet":"11060",
+                "retTime":"2.045",
+                "mostOcc":{
+                    "drugs":"Docetaxel",
+                    "occurance":"162"
+                }
+            },
+            "val": [
+                {
+                    "id": 1,
+                    "drugs": "Docetaxel",
+                    "drugsCount": 1,
+                    "occurance": 162
+                },
+                {
+                    "id": 2,
+                    "drugs": "Gefitinib",
+                    "drugsCount": 1,
+                    "occurance": 77
+                },
+                {
+                    "id": 3,
+                    "drugs": "Carboplatin,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 22
+                },
+                {
+                    "id": 4,
+                    "drugs": "Durvalumab",
+                    "drugsCount": 1,
+                    "occurance": 75
+                },
+                {
+                    "id": 5,
+                    "drugs": "Cyclophosphamide",
+                    "drugsCount": 1,
+                    "occurance": 20
+                },
+                {
+                    "id": 6,
+                    "drugs": "Carboplatin",
+                    "drugsCount": 1,
+                    "occurance": 232
+                },
+                {
+                    "id": 7,
+                    "drugs": "Atezolizumab",
+                    "drugsCount": 1,
+                    "occurance": 84
+                },
+                {
+                    "id": 8,
+                    "drugs": "Pembrolizumab",
+                    "drugsCount": 1,
+                    "occurance": 161
+                },
+                {
+                    "id": 9,
+                    "drugs": "Dexamethasone",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 10,
+                    "drugs": "Ipilimumab",
+                    "drugsCount": 1,
+                    "occurance": 36
+                },
+                {
+                    "id": 11,
+                    "drugs": "Nivolumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 12,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 13,
+                    "drugs": "Nivolumab",
+                    "drugsCount": 1,
+                    "occurance": 96
+                },
+                {
+                    "id": 14,
+                    "drugs": "Bevacizumab,Cisplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 15,
+                    "drugs": "Bevacizumab",
+                    "drugsCount": 1,
+                    "occurance": 91
+                },
+                {
+                    "id": 16,
+                    "drugs": "Atezolizumab,Bevacizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 17,
+                    "drugs": "Carboplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 15
+                },
+                {
+                    "id": 18,
+                    "drugs": "Cisplatin,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 11
+                },
+                {
+                    "id": 19,
+                    "drugs": "Paclitaxel",
+                    "drugsCount": 1,
+                    "occurance": 136
+                },
+                {
+                    "id": 20,
+                    "drugs": "Oxaliplatin",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 21,
+                    "drugs": "Cisplatin",
+                    "drugsCount": 1,
+                    "occurance": 210
+                },
+                {
+                    "id": 22,
+                    "drugs": "Avelumab",
+                    "drugsCount": 1,
+                    "occurance": 13
+                },
+                {
+                    "id": 23,
+                    "drugs": "Carboplatin,Cetuximab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 24,
+                    "drugs": "Carboplatin,Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 25,
+                    "drugs": "Regorafenib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 26,
+                    "drugs": "Durvalumab,Lurbinectedin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 27,
+                    "drugs": "Abemaciclib",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 28,
+                    "drugs": "Vandetanib",
+                    "drugsCount": 1,
+                    "occurance": 9
+                },
+                {
+                    "id": 29,
+                    "drugs": "Carboplatin,Cisplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 30,
+                    "drugs": "XELOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 31,
+                    "drugs": "Prednisone",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 32,
+                    "drugs": "Cetuximab",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 33,
+                    "drugs": "Busulfan,Melphalan",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 34,
+                    "drugs": "Aldesleukin",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 35,
+                    "drugs": "Alectinib",
+                    "drugsCount": 1,
+                    "occurance": 11
+                },
+                {
+                    "id": 36,
+                    "drugs": "Cisplatin,Dexamethasone",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 37,
+                    "drugs": "Ceritinib",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 38,
+                    "drugs": "Temozolomide",
+                    "drugsCount": 1,
+                    "occurance": 14
+                },
+                {
+                    "id": 39,
+                    "drugs": "Dacomitinib",
+                    "drugsCount": 1,
+                    "occurance": 18
+                },
+                {
+                    "id": 40,
+                    "drugs": "Sotorasib",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 41,
+                    "drugs": "Amifostine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 42,
+                    "drugs": "Crizotinib",
+                    "drugsCount": 1,
+                    "occurance": 19
+                },
+                {
+                    "id": 43,
+                    "drugs": "Anastrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 44,
+                    "drugs": "AC",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 45,
+                    "drugs": "Cisplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 9
+                },
+                {
+                    "id": 46,
+                    "drugs": "Carboplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 40
+                },
+                {
+                    "id": 47,
+                    "drugs": "Etoposide",
+                    "drugsCount": 1,
+                    "occurance": 51
+                },
+                {
+                    "id": 48,
+                    "drugs": "Aprepitant",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 49,
+                    "drugs": "Dasatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 50,
+                    "drugs": "Ipilimumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 6
+                },
+                {
+                    "id": 51,
+                    "drugs": "Atezolizumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 52,
+                    "drugs": "Atezolizumab,Carboplatin,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 53,
+                    "drugs": "Avelumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 54,
+                    "drugs": "Avelumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 55,
+                    "drugs": "Axitinib",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 56,
+                    "drugs": "Azacitidine",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 57,
+                    "drugs": "Olaparib",
+                    "drugsCount": 1,
+                    "occurance": 16
+                },
+                {
+                    "id": 58,
+                    "drugs": "Bevacizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 7
+                },
+                {
+                    "id": 59,
+                    "drugs": "Bevacizumab,Cisplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 60,
+                    "drugs": "Bexarotene",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 61,
+                    "drugs": "Binimetinib",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 62,
+                    "drugs": "Ramucirumab",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 63,
+                    "drugs": "Cisplatin,Docetaxel,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 64,
+                    "drugs": "Bortezomib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 65,
+                    "drugs": "Brigatinib",
+                    "drugsCount": 1,
+                    "occurance": 10
+                },
+                {
+                    "id": 66,
+                    "drugs": "Cabazitaxel",
+                    "drugsCount": 1,
+                    "occurance": 5
+                },
+                {
+                    "id": 67,
+                    "drugs": "Capecitabine",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 68,
+                    "drugs": "Atezolizumab,Carboplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 69,
+                    "drugs": "Atezolizumab,Bevacizumab,Carboplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 70,
+                    "drugs": "Carboplatin,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 10
+                },
+                {
+                    "id": 71,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 5
+                },
+                {
+                    "id": 72,
+                    "drugs": "Cisplatin,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 73,
+                    "drugs": "Cisplatin,Docetaxel,Etoposide,Filgrastim,Pegfilgrastim",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 74,
+                    "drugs": "Cisplatin,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 8
+                },
+                {
+                    "id": 75,
+                    "drugs": "Crizotinib,Ipilimumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 76,
+                    "drugs": "Cyclophosphamide,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 77,
+                    "drugs": "Cyclophosphamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 78,
+                    "drugs": "Decitabine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 79,
+                    "drugs": "Degarelix",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 80,
+                    "drugs": "Denosumab,Nivolumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 81,
+                    "drugs": "Denosumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 82,
+                    "drugs": "Dinutuximab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 83,
+                    "drugs": "Dexamethasone,Docetaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 84,
+                    "drugs": "Bevacizumab,Carboplatin,Docetaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 85,
+                    "drugs": "Lorlatinib",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 86,
+                    "drugs": "Pertuzumab",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 87,
+                    "drugs": "Everolimus,Panitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 88,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 89,
+                    "drugs": "Carboplatin,Cisplatin,Etoposide,Paclitaxel",
+                    "drugsCount": 4,
+                    "occurance": 3
+                },
+                {
+                    "id": 90,
+                    "drugs": "Cisplatin,Durvalumab,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 91,
+                    "drugs": "Durvalumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 92,
+                    "drugs": "Carboplatin,Cisplatin,Durvalumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 93,
+                    "drugs": "Durvalumab,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 94,
+                    "drugs": "Alectinib,Ceritinib,Crizotinib,Vemurafenib",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 95,
+                    "drugs": "Entrectinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 96,
+                    "drugs": "Enzalutamide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 97,
+                    "drugs": "Etoposide,Ifosfamide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 98,
+                    "drugs": "Everolimus",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 99,
+                    "drugs": "Exemestane",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 100,
+                    "drugs": "FOLFIRI",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 101,
+                    "drugs": "FOLFOX",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 102,
+                    "drugs": "Fulvestrant",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 103,
+                    "drugs": "Gefitinib,Thalidomide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 104,
+                    "drugs": "Bevacizumab,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 105,
+                    "drugs": "Cisplatin,Necitumumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 106,
+                    "drugs": "Alemtuzumab",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 107,
+                    "drugs": "Carboplatin,Dasatinib,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 108,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 109,
+                    "drugs": "Cisplatin,FOLFIRINOX,Oxaliplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 110,
+                    "drugs": "Ifosfamide",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 111,
+                    "drugs": "Imiquimod",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 112,
+                    "drugs": "Tocilizumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 113,
+                    "drugs": "Belinostat,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 114,
+                    "drugs": "Cisplatin,Durvalumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 115,
+                    "drugs": "Cisplatin,Gefitinib",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 116,
+                    "drugs": "Atezolizumab,CHOP,Cyclophosphamide,Prednisone,Rituximab",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 117,
+                    "drugs": "Ixabepilone",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 118,
+                    "drugs": "Lenalidomide",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 119,
+                    "drugs": "Letrozole",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 120,
+                    "drugs": "Bortezomib,Dacarbazine",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 121,
+                    "drugs": "Lomustine",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 122,
+                    "drugs": "Crizotinib,Lorlatinib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 123,
+                    "drugs": "Lurbinectedin",
+                    "drugsCount": 1,
+                    "occurance": 6
+                },
+                {
+                    "id": 124,
+                    "drugs": "Necitumumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 125,
+                    "drugs": "Cisplatin,Ipilimumab,Paclitaxel",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 126,
+                    "drugs": "Carboplatin,Cisplatin,Nivolumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 127,
+                    "drugs": "Obinutuzumab",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 128,
+                    "drugs": "Bevacizumab,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 129,
+                    "drugs": "Cisplatin,Olaparib",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 130,
+                    "drugs": "Bortezomib,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 131,
+                    "drugs": "Capecitabine,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 132,
+                    "drugs": "Bevacizumab,Cetuximab,FOLFIRI,FOLFOX,Oxaliplatin",
+                    "drugsCount": 5,
+                    "occurance": 1
+                },
+                {
+                    "id": 133,
+                    "drugs": "Docetaxel,Oxaliplatin",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 134,
+                    "drugs": "Bevacizumab,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 135,
+                    "drugs": "Paclitaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 136,
+                    "drugs": "Carboplatin,Paclitaxel,Temozolomide",
+                    "drugsCount": 3,
+                    "occurance": 4
+                },
+                {
+                    "id": 137,
+                    "drugs": "Dexamethasone,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 138,
+                    "drugs": "Palbociclib",
+                    "drugsCount": 1,
+                    "occurance": 3
+                },
+                {
+                    "id": 139,
+                    "drugs": "Panitumumab",
+                    "drugsCount": 1,
+                    "occurance": 4
+                },
+                {
+                    "id": 140,
+                    "drugs": "Ibrutinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 141,
+                    "drugs": "Busulfan",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 142,
+                    "drugs": "Trabectedin",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 143,
+                    "drugs": "Vorinostat",
+                    "drugsCount": 1,
+                    "occurance": 12
+                },
+                {
+                    "id": 144,
+                    "drugs": "Cyclophosphamide,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 145,
+                    "drugs": "Bevacizumab,Cyclophosphamide,Etoposide",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 146,
+                    "drugs": "Pegfilgrastim",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 147,
+                    "drugs": "Bevacizumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 148,
+                    "drugs": "Docetaxel,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 149,
+                    "drugs": "Pembrolizumab,Vorinostat",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 150,
+                    "drugs": "Carboplatin,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 3
+                },
+                {
+                    "id": 151,
+                    "drugs": "Pemigatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 152,
+                    "drugs": "Docetaxel,Paclitaxel",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 153,
+                    "drugs": "Pralsetinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 154,
+                    "drugs": "Trastuzumab",
+                    "drugsCount": 1,
+                    "occurance": 8
+                },
+                {
+                    "id": 155,
+                    "drugs": "Ribociclib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 156,
+                    "drugs": "Romiplostim",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 157,
+                    "drugs": "Selinexor",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 158,
+                    "drugs": "Selpercatinib",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 159,
+                    "drugs": "Siltuximab",
+                    "drugsCount": 1,
+                    "occurance": 7
+                },
+                {
+                    "id": 160,
+                    "drugs": "Carboplatin,Cetuximab,Cisplatin",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 161,
+                    "drugs": "Carboplatin,Etoposide,Vorinostat",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 162,
+                    "drugs": "Talc",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 163,
+                    "drugs": "FEC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 164,
+                    "drugs": "Atezolizumab,Ipilimumab,Nivolumab,Pembrolizumab",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 165,
+                    "drugs": "Belinostat",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 166,
+                    "drugs": "VAC",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 167,
+                    "drugs": "Carboplatin,Paclitaxel,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 1
+                },
+                {
+                    "id": 168,
+                    "drugs": "Carboplatin,Cisplatin,Pembrolizumab",
+                    "drugsCount": 3,
+                    "occurance": 2
+                },
+                {
+                    "id": 169,
+                    "drugs": "Nivolumab,Ramucirumab",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 170,
+                    "drugs": "Durvalumab,Trabectedin",
+                    "drugsCount": 2,
+                    "occurance": 2
+                },
+                {
+                    "id": 171,
+                    "drugs": "Bevacizumab,Carboplatin,Paclitaxel,Vorinostat",
+                    "drugsCount": 4,
+                    "occurance": 1
+                },
+                {
+                    "id": 172,
+                    "drugs": "Durvalumab,Etoposide",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 173,
+                    "drugs": "Paclitaxel,Trastuzumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 174,
+                    "drugs": "Ipilimumab,Pembrolizumab",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 175,
+                    "drugs": "Venetoclax",
+                    "drugsCount": 1,
+                    "occurance": 2
+                },
+                {
+                    "id": 176,
+                    "drugs": "Ifosfamide,Mesna",
+                    "drugsCount": 2,
+                    "occurance": 1
+                },
+                {
+                    "id": 177,
+                    "drugs": "Mesna",
+                    "drugsCount": 1,
+                    "occurance": 1
+                },
+                {
+                    "id": 178,
+                    "drugs": "Cyclophosphamide,Etoposide,Ifosfamide",
+                    "drugsCount": 3,
+                    "occurance": 2
+                }
+            ]
+        }
+    ]
+}
